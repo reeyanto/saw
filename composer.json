@@ -1,0 +1,18 @@
+{
+    "name": "reeyanto/saw",
+    "description": "Library PHP yang mengimplementasikan algoritma SAW (Simple Additive Weighting) untuk Sistem Pendukung Keputusan (SPK).",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Reeyanto\\SAW\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Riyanto",
+            "email": "riyanto.droider@gmail.com"
+        }
+    ],
+    "require": {}
+}
